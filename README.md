@@ -21,3 +21,7 @@ Multi-channel ops across DTC, Amazon FBA/FBM, Walmart dropship, and wholesale
 Vendor and distributor relationship management
 Supply chain and fulfillment process design
 
+## Tech & Tools
+Shopify Liquid JavaScript BigQuery SQL Salesforce Google Analytics Microsoft Clarity Amazon Seller Central Canva Photoshop Illustrator Python (working knowledge)
+
+CS degree, Portland State University. Salesforce Certified Admin. Nearly three years building ecommerce infrastructure from scratch at a multi-channel retail brand.
